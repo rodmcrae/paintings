@@ -1,0 +1,291 @@
+#+TITLE: Blog 2022
+#+OPTIONS: toc:nil
+#+BEGIN_EXPORT html
+<div id="header">
+      <a class="head" href="blogs-menu.html"><img id='b3' src="pics/graphics/menu.png" alt="" /></a>
+      <a class="menu" href="index.html"><span id="title">Rod McRae</span><br />paintings</a><br />
+</div>
+#+END_EXPORT
+  
+* Blog 2022
+   
+   -----
+
+** A plan emerges
+
+*** Posted Wed May 11 2022
+
+While it is always useful to work on new directions using smaller works as experimental groundwork, sometimes something else is required. I'm feeling a need to work on larger paintings and to gradually assemble a small but coherent group of them to present a more convincing body of work (and ideas). I haven't done this for quite a while now. The last show I had ([[file:2018.html][Watters 2018]]), consisted of multiple themes including a survey of work covering the last thirty years or so, new work that I would roughly describe as "Romantic Dada", many recent small drawings and paintings, plus two or three medium sized paintings. This did not really consitute a coherent body of work. On the contrary, I felt like I was still very much exploring new potentials.
+
+Its time for a change. I intend to start working on this new body of work right now. And to start me off, I will rework some older paintings that never quite satisfied me. The first of these is one that I put in that Watters show mentioned above, called "Dancing backwards in time" Here it is as it was in that show:
+
+   [[file:pics/blog/dancingbackwardsintime.jpg]]
+
+Today, my first task was to slow down some of that frenetic movement in the painting, by toning back a large part of it (using thinned black paint). The result was more interesting than I expected:
+
+   [[file:pics/blog/20220511_155856.jpg]]
+   
+   -----
+   
+** Fog lifting
+
+*** Posted Wed May 4 2022
+
+   [[file:pics/blog/20220504_171252.jpg]]
+
+  Returning to this one after a bit of a break, I find myself totally embroiled in the issues of how to proceed in a fog. I like fogs, as it happens, and this is inhibiting to progress in this case. I have to simply bite the bullet and attempt to make something new out of the previous stage, since in some serious ways it does not satisfy me. Its hard to see at the scale of these photos, but I think I'm making progress.
+  
+   -----
+
+** The fog of darkness
+
+*** Posted Mon Apr 4 2022
+
+    [[file:pics/blog/20220404_163505.jpg]]
+
+    -----
+
+** And two more beginnings...
+
+*** Posted Tue Mar 29 2022
+
+    [[file:pics/blog/20220329_115048.jpg]]
+
+    [[file:pics/blog/20220329_140010.jpg]]
+
+    -----
+    
+** Next steps
+
+*** Posted Mon Mar 28 2022
+
+    [[file:pics/blog/20220328_115701.jpg]]
+
+    and then this:
+
+    [[file:pics/blog/20220328_153850.jpg]]
+
+    -----
+
+** Painting again
+
+*** Posted Wed Mar 23 2022
+
+    Started back on some painting with this beginning;
+
+    [[file:pics/blog/20220323_145950.jpg]]
+
+    -----
+
+** Closing my 'other' blog
+
+*** Posted Wed Mar 23 2022
+
+    I'm closing the new, experimental blog on Github, so I've deleted the link in the post on the 16th March. All the images have been transferred to the Extext section, and this is where I'll be developing it now.
+
+    -----
+
+** Extext images
+
+*** Posted Tue Mar 22 2022
+
+    I've started a new section called Extext, which you can access from the
+    home page (or [[file:extext/extext001.html][here]]). This is an attempt
+    to bring what I have been doing on the new blog (mentioned in the last
+    post) back into the fold of this, my main, website. Its very small right
+    now (just four pages) but its easy to maintain and add to, so I will!
+
+    I have deliberately made it look a bit different from the other pages as
+    its all about trying to create something new, and out of context (thus
+    the name 'Extext'). Sometimes all the history of my painting can become
+    burdensome to me, and I feel restricted in how to move forward.
+
+    This is my attempt to do that, in a way that uses the medium of this web
+    business a bit more effectively.
+
+    -----
+
+** Too much tech?
+
+*** Posted Wed Mar 16 2022
+
+    Its been pointed out to me that people reading this blog aren't really
+    interested in the technology I use to put it out on the web.
+
+    That is probably true, and if so, I apologise for writing about it.
+    But I spend quite a lot of time engaged with this technical stuff, and I
+    find the philosophy involved in it quite fascinating. It's also not
+    unrelated to what I do in my painting (I'll write more on this soon).
+
+    I saw a program on TV recently where a Tasmanian man has a craft
+    business of carving spoons from different timbers. He has found that
+    using a knife to finish the spoons gives him more pleasure than using
+    sandpaper. I haven't seen any of these spoons but I imagine that the
+    finish created by using a knife is subtly different. In the same way, I
+    feel that writing a website directly in html code (as I do) produces a
+    different product from using one of the many automated systems, such as
+    Wordpress. Its the difference that is interesting, not that one way of
+    doing things is the /right/ way.
+
+    -----
+
+*** Later on Wed Mar 16 2022
+
+    Some more work on these two smallish paintings. Gradually taking shape.
+    [[file:pics/blog/20220316_165002.jpg]]
+    [[file:pics/blog/20220316_165018.jpg]]
+
+    --------------
+
+** Transferring to github
+
+*** Posted Wed Mar 09 2022
+
+    I've moved this website to a new host - Github Pages. I liked Fastmail
+    as a webhost, but it was always just a bit too slow, since the servers
+    are over in New York (I believe), and there doesn't seem to be any
+    locally cached sources for people to access it directly over on this
+    side of the world. Github looks like a good alternative. To my mind, it
+    seems very fast now, and I know that Github has servers all over the
+    world. I also like the way its set up, even though it has taken me a bit
+    of time to get to grips with the git system of version control, which is
+    behind everything done there. Since git grew out of a linux base
+    (developed by Linus Torvalds), it all feels pretty familiar to me. We'll
+    see how we go. I am still keeping my email at fastmail, so I can always
+    switch back if it doesn't work out.
+
+    --------------
+
+** What next?
+
+*** Posted Tues Mar 08 2022
+
+    In itself, de-shopifying might not change what I do, here in the studio,
+    one iota. But it might.
+
+    As artists, we all like to think that how we work is not really
+    determined by financial concerns. Or even by the idea that someone else
+    might OWN the piece that we are working on. We would like to think that
+    this is insignificant to the way that we approach the work's
+    development. I wonder if this is entirely true though. I find myself
+    wondering in some subtle ways how the work will be viewed by others, and
+    this makes me potentially self-conscious, and could well affect the way
+    that I work.
+
+    Its not a big jump to the suggestion that taking out any financial
+    considerations might be somehow liberating.
+
+    Now that this website is not clearly linked to the process of selling
+    work, I hope that I can explore this new 'freedom' and I shall be
+    monitoring (as far as I can) any effects this has on how I work. And the
+    results of that work.
+
+    --------------
+
+** De-shopifying my website
+
+*** Posted Sun Mar 06 2022
+
+    I have decided to remove the shop pages from my website. This is part of
+    a big rethink of what I am trying to achieve, and where to go from here.
+
+    When I decided to add those pages, about this time last year, the main
+    objective for me was to make new connections with people who, I hoped,
+    might like to own work and thereby connect more directly with what I am
+    doing in my painting world. It was never about making money out of the
+    work. When people were directed to my site at this time, they showed
+    great interest, for which I was (and remain) extremely grateful. It was
+    a period of some joy for me, knowing that people were actually looking
+    closely at the paintings, albeit in photographs and not in real space
+    (as might occur in an exhibition). That they might seriously consider
+    paying real money for those paintings was gratifying.
+
+    However, it was just a moment, in the long continuum which is our lives!
+    After I while, I realised that the interest would not continue unless I
+    vigorously pursued it. We all have so much going on in our lives that we
+    move on at a rapid pace, and our attention is diverted elsewhere. I also
+    realised that I don't have much interest in actively approaching people,
+    though email, messaging or networking, in order to tempt them towards
+    acquiring works of art. So I left the shop pages in case anyone was
+    still interested, for several months, and then decided that not much
+    further activity was likely to occur without further interventions of my
+    own (which I wasn't inclined to follow up). It was time to move on, and
+    try another approach. The first stage of that process was to remove the
+    pages, and references to them, from the website. I've now done that.
+
+    --------------
+
+** Autumn colours?
+
+*** Posted Fri Mar 04 2022
+
+    [[file:pics/blog/20220304_120022.jpg]]
+
+    So, not really traditional autumn colours, but I am looking back to my
+    drawings on paper for the start of this autumn, and the colours there
+    are predominantly black and white. There is a tinge of brown in there
+    too, though its not too obvious yet. I feel some hope that this process
+    of trying to reproduce what I managed on paper, like this drawing (which
+    I was looking at when I started the painting):
+    [[file:pics/blog/20211207_0029.jpg]] will lead me back into a less tight
+    and structured approach to painting on canvas.
+
+    The painting is only just started and may have a way to go yet.
+
+    --------------
+
+** End of summer
+
+*** Posted Mon Feb 28 2022
+
+    It's the last day of summer (here in Melbourne), and time to reflect on
+    what I have been doing since the last post, in early January.
+
+    I'm still working over the canvas I had started then, but I've also
+    added in several more of the same size, which I'm painting
+    simultaneously, moving from one to the next in succession.
+
+    Here is the work photographed in the last post as it is today:
+
+    [[file:pics/blog/20220119_164944.jpg]]
+
+    and here are the other ones I'm working on. They are all the same size
+    (40cm wide).
+
+    [[file:pics/blog/20220117_135113.jpg]]
+
+    [[file:pics/blog/20220216_163452.jpg]]
+
+    [[file:pics/blog/20220228_123752.jpg]]
+
+    [[file:pics/blog/20220228_123247.jpg]]
+
+    --------------
+
+** Oil painting on canvas, to start the year
+
+*** Posted Wed January 05 2022
+
+    Started this one a little while ago, but its good to get back into it.
+    Not sure where this is heading at the moment, but that's the fun of it.
+
+    [[file:pics/blog/20220105_162636.jpg]]
+
+    width:39.5cm
+
+    --------------
+
+** Happy new year!
+
+*** Posted Sat January 01 2022
+
+    I've just moved my website back to the Fastmail servers, so if you find
+    a few glitches (eg. some pictures don't automatically load on pages) try
+    refreshing your page (usually with F5)
+
+    --------------
+
+    [[file:blog2021.html][<-- Blog 2021]]
+
+    [[file:blogs-menu.html][ Blog menu ]]
+    
